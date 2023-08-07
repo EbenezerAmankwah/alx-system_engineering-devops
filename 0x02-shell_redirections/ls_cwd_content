@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 ebenezer ebenezer 4096 D-Ɔ  7 19:04 .
+drwxrwxr-x 6 ebenezer ebenezer 4096 D-Ɔ  7 12:34 ..
+-rwxrw-r-- 1 ebenezer ebenezer   32 D-Ɔ  7 12:44 0-hello_world
+-rwxrw-r-- 1 ebenezer ebenezer   28 D-Ɔ  7 13:43 1-confused_smiley
+-rwxrw-r-- 1 ebenezer ebenezer   28 D-Ɔ  7 14:00 2-hellofile
+-rwxrw-r-- 1 ebenezer ebenezer   39 D-Ɔ  7 14:14 3-twofiles
+-rwxrw-r-- 1 ebenezer ebenezer   35 D-Ɔ  7 14:19 4-lastlines
+-rwxrw-r-- 1 ebenezer ebenezer   35 D-Ɔ  7 14:22 5-firstlines
+-rwxrw-r-- 1 ebenezer ebenezer   37 D-Ɔ  7 15:03 6-third_line
+-rwxrw-r-- 1 ebenezer ebenezer   99 D-Ɔ  7 15:55 7-file
+-rwxrw-r-- 1 ebenezer ebenezer   36 D-Ɔ  7 19:03 8-cwd_state
+-rw-rw-r-- 1 ebenezer ebenezer   38 D-Ɔ  7 15:22 \*\'Best
+-rw-rw-r-- 1 ebenezer ebenezer   12 D-Ɔ  7 15:48 \*\'BestSchool\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ebenezer ebenezer   12 D-Ɔ  7 15:55 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ebenezer ebenezer    0 D-Ɔ  7 19:04 ls_cwd_content
+-rw-rw-r-- 1 ebenezer ebenezer   22 D-Ɔ  7 12:37 README.md
